@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.sakura</groupId>
     <artifactId>sakurabot</artifactId>
-    <version>1.5.9</version>
+    <version>1.6.0</version>
     <packaging>jar</packaging>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -14,7 +14,7 @@
         <dependency>
             <groupId>jda-commands</groupId>
             <artifactId>jda-commands</artifactId>
-            <version>2.0.11-SNAPSHOT</version>
+            <version>2.0.12-SNAPSHOT</version>
         </dependency>
         <dependency>
             <groupId>org.mariadb.jdbc</groupId>
